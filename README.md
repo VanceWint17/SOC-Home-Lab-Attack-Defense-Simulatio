@@ -57,13 +57,14 @@ This is the exact workflow analysts follow in real SOC environments.
 
 
 **🧰 Tools Used**
-Tool	Purpose
-VirtualBox	Windows 11 VM environment
-Sysmon	Detailed Windows telemetry (process, network, registry)
-Wazuh	SIEM & agent management
-TheHive	Incident response & case handling
-Shuffle	Automation & integrations
-VirusTotal API	Threat intel enrichment
+
+Tool	Purpose,
+VirtualBox	Windows 11 VM environment,
+Sysmon	Detailed Windows telemetry (process, network, registry),
+Wazuh	SIEM & agent management,
+TheHive	Incident response & case handling,
+Shuffle	Automation & integrations,
+VirusTotal API	Threat intel enrichment, and
 Mimikatz	Credential theft attack simulation
 
 **📄 Setup Documentation**
