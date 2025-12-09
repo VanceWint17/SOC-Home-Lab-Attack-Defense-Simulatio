@@ -114,7 +114,7 @@ Sends an email to the analyst
 
 This simulates real automated incident response.
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 Add Sigma rules → Wazuh
 
@@ -128,7 +128,7 @@ Add PowerShell Empire C2 Simulation
 
 Add ELK + Fleet Server for unified log ingestion
 
-🎉 Final Notes
+**🎉 Final Notes**
 
 This project demonstrates:
 
